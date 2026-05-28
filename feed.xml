@@ -5,9 +5,14 @@
     <link>https://agi-for-my-llama.github.io/gtm-ai-brief-site/index.html</link>
     <description>AI news translated into GTM workflows.</description>
     <item>
-      <title>AI GTM Fieldbook: Google&apos;s Ads stack shifts toward agentic marketing workflows</title>
-      <link>https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-here-s-how-ai-is-rebuilding-the-foundation-of-modern-marketing.html</link>
-      <description>Google&apos;s latest Ads and Marketing Live messaging points to a practical shift: ad systems are moving from &quot;set up campaigns and optimize manually&quot; toward more agent-assisted planning, creative, and measurement. For GTM teams, that matters because the bottleneck is no longer just media buying. It is the speed of turning intent data into ads, landing pages, and follow-up journeys that actually match how buyers search and compare. If Google&apos;s tools do more of the setup and optimization work, GTM operators will need tighter control over inputs, approvals, and performance review. The winners will be teams that can feed these systems clean offers, strong conversion signals, and crisp guardrails.</description>
+      <title>GTM AI Brief: RevOps Owns The AI Workflow Boundary</title>
+      <link>https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-revops-governance.html</link>
+      <description>AI is moving from sidecar assistant to active participant in CRM, prospecting, support, search campaigns, and work management. That makes RevOps the natural owner of the workflow boundary: what AI can read, what it can write, when it needs approval, and how the outcome gets measured. HubSpot moved major AI agents toward pricing based on resolved conversations and recommended leads.</description>
+    </item>
+    <item>
+      <title>AI GTM Fieldbook: Four AI Transitions GTM Teams Need To Operationalize</title>
+      <link>https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-gtm-ai-ops.html</link>
+      <description>The best AI GTM opportunities right now are not model demos. They are operating changes: how teams price agent work, migrate search campaigns, prepare offers for agentic commerce, and keep humans in approval loops. HubSpot moved Customer Agent and Prospecting Agent toward pricing based on resolved conversations and recommended leads. The signal is simple: AI agents are being judged on completed GTM tasks, not text generation.</description>
     </item>
     <item>
       <title>AI GTM Fieldbook: GTM AI Is Moving Into Systems Of Work</title>
@@ -15,19 +20,14 @@
       <description>The important AI news this week is not another model launch. The pattern is that AI is moving into the systems GTM teams already use: search ads, CRM, spreadsheets, Slack, small-business apps, marketing operations, and sales workflows. That changes the GTM question from &quot;which AI tool should we try?&quot; to &quot;which workflow should AI be allowed to influence, what data does it need, and how do we know it worked?&quot;</description>
     </item>
     <item>
-      <title>GTM AI Brief: RevOps Owns The AI Workflow Boundary</title>
-      <link>https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-revops-governance.html</link>
-      <description>AI is moving from sidecar assistant to active participant in CRM, prospecting, support, search campaigns, and work management. That makes RevOps the natural owner of the workflow boundary: what AI can read, what it can write, when it needs approval, and how the outcome gets measured. HubSpot moved major AI agents toward pricing based on resolved conversations and recommended leads.</description>
+      <title>AI GTM Fieldbook: Google&apos;s Ads stack shifts toward agentic marketing workflows</title>
+      <link>https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-here-s-how-ai-is-rebuilding-the-foundation-of-modern-marketing.html</link>
+      <description>Google&apos;s latest Ads and Marketing Live messaging points to a practical shift: ad systems are moving from &quot;set up campaigns and optimize manually&quot; toward more agent-assisted planning, creative, and measurement. For GTM teams, that matters because the bottleneck is no longer just media buying. It is the speed of turning intent data into ads, landing pages, and follow-up journeys that actually match how buyers search and compare. If Google&apos;s tools do more of the setup and optimization work, GTM operators will need tighter control over inputs, approvals, and performance review. The winners will be teams that can feed these systems clean offers, strong conversion signals, and crisp guardrails.</description>
     </item>
     <item>
       <title>AI GTM Fieldbook: Ads, AEO, CRM Agents, and Agent Infrastructure</title>
       <link>https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28.html</link>
       <description>OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: &quot;what should I buy?&quot;, &quot;which tool fits this use case?&quot;, or &quot;how do I solve this problem?&quot;</description>
-    </item>
-    <item>
-      <title>AI GTM Fieldbook: Four AI Transitions GTM Teams Need To Operationalize</title>
-      <link>https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-gtm-ai-ops.html</link>
-      <description>The best AI GTM opportunities right now are not model demos. They are operating changes: how teams price agent work, migrate search campaigns, prepare offers for agentic commerce, and keep humans in approval loops. HubSpot moved Customer Agent and Prospecting Agent toward pricing based on resolved conversations and recommended leads. The signal is simple: AI agents are being judged on completed GTM tasks, not text generation.</description>
     </item>
     <item>
       <title>AI GTM Fieldbook: AI Search Ads Need A Readiness Audit</title>
