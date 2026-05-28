@@ -12,6 +12,13 @@
       "content_text": "OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: \"what should I buy?\", \"which tool fits this use case?\", or \"how do I solve this problem?\""
     },
     {
+      "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-revops-governance.html",
+      "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-revops-governance.html",
+      "title": "GTM AI Brief: RevOps Owns The AI Workflow Boundary",
+      "summary": "AI is moving from sidecar assistant to active participant in CRM, prospecting, support, search campaigns, and work management. That makes RevOps the natural owner of the workflow boundary: what AI can read, what it can write, when it needs approval, and how the outcome gets measured. HubSpot moved major AI agents toward pricing based on resolved conversations and recommended leads.",
+      "content_text": "AI is moving from sidecar assistant to active participant in CRM, prospecting, support, search campaigns, and work management. That makes RevOps the natural owner of the workflow boundary: what AI can read, what it can write, when it needs approval, and how the outcome gets measured. HubSpot moved major AI agents toward pricing based on resolved conversations and recommended leads."
+    },
+    {
       "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-gtm-ai-ops.html",
       "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-gtm-ai-ops.html",
       "title": "AI GTM Fieldbook: Four AI Transitions GTM Teams Need To Operationalize",
