@@ -5,6 +5,13 @@
   "feed_url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/feed.json",
   "items": [
     {
+      "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-here-s-how-ai-is-rebuilding-the-foundation-of-modern-marketing.html",
+      "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-here-s-how-ai-is-rebuilding-the-foundation-of-modern-marketing.html",
+      "title": "AI GTM Fieldbook: Google's Ads stack shifts toward agentic marketing workflows",
+      "summary": "Google's latest Ads and Marketing Live messaging points to a practical shift: ad systems are moving from \"set up campaigns and optimize manually\" toward more agent-assisted planning, creative, and measurement. For GTM teams, that matters because the bottleneck is no longer just media buying. It is the speed of turning intent data into ads, landing pages, and follow-up journeys that actually match how buyers search and compare. If Google's tools do more of the setup and optimization work, GTM operators will need tighter control over inputs, approvals, and performance review. The winners will be teams that can feed these systems clean offers, strong conversion signals, and crisp guardrails.",
+      "content_text": "Google's latest Ads and Marketing Live messaging points to a practical shift: ad systems are moving from \"set up campaigns and optimize manually\" toward more agent-assisted planning, creative, and measurement. For GTM teams, that matters because the bottleneck is no longer just media buying. It is the speed of turning intent data into ads, landing pages, and follow-up journeys that actually match how buyers search and compare. If Google's tools do more of the setup and optimization work, GTM operators will need tighter control over inputs, approvals, and performance review. The winners will be teams that can feed these systems clean offers, strong conversion signals, and crisp guardrails."
+    },
+    {
       "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-agentic-gtm-systems.html",
       "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-agentic-gtm-systems.html",
       "title": "AI GTM Fieldbook: GTM AI Is Moving Into Systems Of Work",
