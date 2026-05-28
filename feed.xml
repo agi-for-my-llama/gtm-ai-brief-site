@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GTM AI Brief</title>
+    <link>https://gtmaibrief.com/index.html</link>
+    <description>AI news translated into GTM workflows.</description>
+    <item>
+      <title>GTM AI Brief: Ads, AEO, CRM Agents, and Agent Infrastructure</title>
+      <link>https://gtmaibrief.com/briefs/2026-05-28.html</link>
+      <description>OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: &quot;what should I buy?&quot;, &quot;which tool fits this use case?&quot;, or &quot;how do I solve this problem?&quot;</description>
+    </item>
+  </channel>
+</rss>

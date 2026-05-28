@@ -1,0 +1,15 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "GTM AI Brief",
+  "home_page_url": "https://gtmaibrief.com/index.html",
+  "feed_url": "https://gtmaibrief.com/feed.json",
+  "items": [
+    {
+      "id": "https://gtmaibrief.com/briefs/2026-05-28.html",
+      "url": "https://gtmaibrief.com/briefs/2026-05-28.html",
+      "title": "GTM AI Brief: Ads, AEO, CRM Agents, and Agent Infrastructure",
+      "summary": "OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: \"what should I buy?\", \"which tool fits this use case?\", or \"how do I solve this problem?\"",
+      "content_text": "OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: \"what should I buy?\", \"which tool fits this use case?\", or \"how do I solve this problem?\""
+    }
+  ]
+}
