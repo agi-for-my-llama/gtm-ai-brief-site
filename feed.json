@@ -1,14 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "AI GTM Fieldbook",
-  "home_page_url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/index.html",
+  "home_page_url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/",
   "feed_url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/feed.json",
   "items": [
+    {
+      "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-here-s-how-ai-is-rebuilding-the-foundation-of-modern-marketing.html",
+      "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-here-s-how-ai-is-rebuilding-the-foundation-of-modern-marketing.html",
+      "title": "AI GTM Fieldbook: Google's Ads stack shifts toward agentic marketing workflows",
+      "summary": "Google's latest Ads and Marketing Live messaging points to a practical shift: ad systems are moving from \"set up campaigns and optimize manually\" toward more agent-assisted planning, creative, and measurement. For GTM teams, that matters because the bottleneck is no longer just media buying. It is the speed of turning intent data into ads, landing pages, and follow-up journeys that actually match how buyers search and compare. If Google's tools do more of the setup and optimization work, GTM operators will need tighter control over inputs, approvals, and performance review. The winners will be teams that can feed these systems clean offers, strong conversion signals, and crisp guardrails.",
+      "date_published": "2026-05-28T12:00:00Z",
+      "content_text": "Google's latest Ads and Marketing Live messaging points to a practical shift: ad systems are moving from \"set up campaigns and optimize manually\" toward more agent-assisted planning, creative, and measurement. For GTM teams, that matters because the bottleneck is no longer just media buying. It is the speed of turning intent data into ads, landing pages, and follow-up journeys that actually match how buyers search and compare. If Google's tools do more of the setup and optimization work, GTM operators will need tighter control over inputs, approvals, and performance review. The winners will be teams that can feed these systems clean offers, strong conversion signals, and crisp guardrails."
+    },
+    {
+      "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-agentic-gtm-systems.html",
+      "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-agentic-gtm-systems.html",
+      "title": "AI GTM Fieldbook: GTM AI Is Moving Into Systems Of Work",
+      "summary": "The important AI news this week is not another model launch. The pattern is that AI is moving into the systems GTM teams already use: search ads, CRM, spreadsheets, Slack, small-business apps, marketing operations, and sales workflows. That changes the GTM question from \"which AI tool should we try?\" to \"which workflow should AI be allowed to influence, what data does it need, and how do we know it worked?\"",
+      "date_published": "2026-05-28T12:00:00Z",
+      "content_text": "The important AI news this week is not another model launch. The pattern is that AI is moving into the systems GTM teams already use: search ads, CRM, spreadsheets, Slack, small-business apps, marketing operations, and sales workflows. That changes the GTM question from \"which AI tool should we try?\" to \"which workflow should AI be allowed to influence, what data does it need, and how do we know it worked?\""
+    },
     {
       "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-revops-governance.html",
       "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-revops-governance.html",
       "title": "GTM AI Brief: RevOps Owns The AI Workflow Boundary",
       "summary": "AI is moving from sidecar assistant to active participant in CRM, prospecting, support, search campaigns, and work management. That makes RevOps the natural owner of the workflow boundary: what AI can read, what it can write, when it needs approval, and how the outcome gets measured. HubSpot moved major AI agents toward pricing based on resolved conversations and recommended leads.",
+      "date_published": "2026-05-28T12:00:00Z",
       "content_text": "AI is moving from sidecar assistant to active participant in CRM, prospecting, support, search campaigns, and work management. That makes RevOps the natural owner of the workflow boundary: what AI can read, what it can write, when it needs approval, and how the outcome gets measured. HubSpot moved major AI agents toward pricing based on resolved conversations and recommended leads."
     },
     {
@@ -16,35 +33,24 @@
       "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-gtm-ai-ops.html",
       "title": "AI GTM Fieldbook: Four AI Transitions GTM Teams Need To Operationalize",
       "summary": "The best AI GTM opportunities right now are not model demos. They are operating changes: how teams price agent work, migrate search campaigns, prepare offers for agentic commerce, and keep humans in approval loops. HubSpot moved Customer Agent and Prospecting Agent toward pricing based on resolved conversations and recommended leads. The signal is simple: AI agents are being judged on completed GTM tasks, not text generation.",
+      "date_published": "2026-05-28T12:00:00Z",
       "content_text": "The best AI GTM opportunities right now are not model demos. They are operating changes: how teams price agent work, migrate search campaigns, prepare offers for agentic commerce, and keep humans in approval loops. HubSpot moved Customer Agent and Prospecting Agent toward pricing based on resolved conversations and recommended leads. The signal is simple: AI agents are being judged on completed GTM tasks, not text generation."
-    },
-    {
-      "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-agentic-gtm-systems.html",
-      "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-agentic-gtm-systems.html",
-      "title": "AI GTM Fieldbook: GTM AI Is Moving Into Systems Of Work",
-      "summary": "The important AI news this week is not another model launch. The pattern is that AI is moving into the systems GTM teams already use: search ads, CRM, spreadsheets, Slack, small-business apps, marketing operations, and sales workflows. That changes the GTM question from \"which AI tool should we try?\" to \"which workflow should AI be allowed to influence, what data does it need, and how do we know it worked?\"",
-      "content_text": "The important AI news this week is not another model launch. The pattern is that AI is moving into the systems GTM teams already use: search ads, CRM, spreadsheets, Slack, small-business apps, marketing operations, and sales workflows. That changes the GTM question from \"which AI tool should we try?\" to \"which workflow should AI be allowed to influence, what data does it need, and how do we know it worked?\""
-    },
-    {
-      "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-here-s-how-ai-is-rebuilding-the-foundation-of-modern-marketing.html",
-      "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-here-s-how-ai-is-rebuilding-the-foundation-of-modern-marketing.html",
-      "title": "AI GTM Fieldbook: Google's Ads stack shifts toward agentic marketing workflows",
-      "summary": "Google's latest Ads and Marketing Live messaging points to a practical shift: ad systems are moving from \"set up campaigns and optimize manually\" toward more agent-assisted planning, creative, and measurement. For GTM teams, that matters because the bottleneck is no longer just media buying. It is the speed of turning intent data into ads, landing pages, and follow-up journeys that actually match how buyers search and compare. If Google's tools do more of the setup and optimization work, GTM operators will need tighter control over inputs, approvals, and performance review. The winners will be teams that can feed these systems clean offers, strong conversion signals, and crisp guardrails.",
-      "content_text": "Google's latest Ads and Marketing Live messaging points to a practical shift: ad systems are moving from \"set up campaigns and optimize manually\" toward more agent-assisted planning, creative, and measurement. For GTM teams, that matters because the bottleneck is no longer just media buying. It is the speed of turning intent data into ads, landing pages, and follow-up journeys that actually match how buyers search and compare. If Google's tools do more of the setup and optimization work, GTM operators will need tighter control over inputs, approvals, and performance review. The winners will be teams that can feed these systems clean offers, strong conversion signals, and crisp guardrails."
-    },
-    {
-      "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28.html",
-      "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28.html",
-      "title": "AI GTM Fieldbook: Ads, AEO, CRM Agents, and Agent Infrastructure",
-      "summary": "OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: \"what should I buy?\", \"which tool fits this use case?\", or \"how do I solve this problem?\"",
-      "content_text": "OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: \"what should I buy?\", \"which tool fits this use case?\", or \"how do I solve this problem?\""
     },
     {
       "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-ai-search-ads.html",
       "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-ai-search-ads.html",
       "title": "AI GTM Fieldbook: AI Search Ads Need A Readiness Audit",
       "summary": "Google and OpenAI are moving ads into AI-mediated search and answer surfaces. The immediate GTM question is not whether to move budget. It is whether the team has the inputs needed to test these surfaces without losing control of message, landing page fit, and measurement. OpenAI updated its ad policies on May 26, 2026, adding more detail on placement standards, safeguards, and enforcement. Google announced AI Mode ad formats at Google Marketing Live, including ads that can appear in conversational discovery and recommendation-style answer experiences. Google also said Dynamic Search Ads and related legacy settings will upgrade to AI Max starting in September 2026.",
+      "date_published": "2026-05-28T12:00:00Z",
       "content_text": "Google and OpenAI are moving ads into AI-mediated search and answer surfaces. The immediate GTM question is not whether to move budget. It is whether the team has the inputs needed to test these surfaces without losing control of message, landing page fit, and measurement. OpenAI updated its ad policies on May 26, 2026, adding more detail on placement standards, safeguards, and enforcement. Google announced AI Mode ad formats at Google Marketing Live, including ads that can appear in conversational discovery and recommendation-style answer experiences. Google also said Dynamic Search Ads and related legacy settings will upgrade to AI Max starting in September 2026."
+    },
+    {
+      "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28.html",
+      "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28.html",
+      "title": "AI GTM Fieldbook: Ads, AEO, CRM Agents, and Agent Infrastructure",
+      "summary": "OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: \"what should I buy?\", \"which tool fits this use case?\", or \"how do I solve this problem?\"",
+      "date_published": "2026-05-28T12:00:00Z",
+      "content_text": "OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: \"what should I buy?\", \"which tool fits this use case?\", or \"how do I solve this problem?\""
     }
   ]
 }
