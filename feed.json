@@ -5,11 +5,11 @@
   "feed_url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/feed.json",
   "items": [
     {
-      "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28.html",
-      "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28.html",
-      "title": "AI GTM Fieldbook: Ads, AEO, CRM Agents, and Agent Infrastructure",
-      "summary": "OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: \"what should I buy?\", \"which tool fits this use case?\", or \"how do I solve this problem?\"",
-      "content_text": "OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: \"what should I buy?\", \"which tool fits this use case?\", or \"how do I solve this problem?\""
+      "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-agentic-gtm-systems.html",
+      "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-agentic-gtm-systems.html",
+      "title": "AI GTM Fieldbook: GTM AI Is Moving Into Systems Of Work",
+      "summary": "The important AI news this week is not another model launch. The pattern is that AI is moving into the systems GTM teams already use: search ads, CRM, spreadsheets, Slack, small-business apps, marketing operations, and sales workflows. That changes the GTM question from \"which AI tool should we try?\" to \"which workflow should AI be allowed to influence, what data does it need, and how do we know it worked?\"",
+      "content_text": "The important AI news this week is not another model launch. The pattern is that AI is moving into the systems GTM teams already use: search ads, CRM, spreadsheets, Slack, small-business apps, marketing operations, and sales workflows. That changes the GTM question from \"which AI tool should we try?\" to \"which workflow should AI be allowed to influence, what data does it need, and how do we know it worked?\""
     },
     {
       "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-revops-governance.html",
@@ -17,6 +17,13 @@
       "title": "GTM AI Brief: RevOps Owns The AI Workflow Boundary",
       "summary": "AI is moving from sidecar assistant to active participant in CRM, prospecting, support, search campaigns, and work management. That makes RevOps the natural owner of the workflow boundary: what AI can read, what it can write, when it needs approval, and how the outcome gets measured. HubSpot moved major AI agents toward pricing based on resolved conversations and recommended leads.",
       "content_text": "AI is moving from sidecar assistant to active participant in CRM, prospecting, support, search campaigns, and work management. That makes RevOps the natural owner of the workflow boundary: what AI can read, what it can write, when it needs approval, and how the outcome gets measured. HubSpot moved major AI agents toward pricing based on resolved conversations and recommended leads."
+    },
+    {
+      "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28.html",
+      "url": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28.html",
+      "title": "AI GTM Fieldbook: Ads, AEO, CRM Agents, and Agent Infrastructure",
+      "summary": "OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: \"what should I buy?\", \"which tool fits this use case?\", or \"how do I solve this problem?\"",
+      "content_text": "OpenAI is expanding ChatGPT ads with beta self-serve buying, CPC bidding, and measurement while continuing to separate sponsored content from organic answers. Demand gen teams should treat conversational ads as buyer-question capture, not just another display placement. The useful unit is the decision conversation: \"what should I buy?\", \"which tool fits this use case?\", or \"how do I solve this problem?\""
     },
     {
       "id": "https://agi-for-my-llama.github.io/gtm-ai-brief-site/briefs/2026-05-28-gtm-ai-ops.html",
